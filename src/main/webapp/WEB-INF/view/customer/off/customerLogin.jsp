@@ -11,7 +11,7 @@
     <meta charset="UTF-8">
     <title>LOGIN</title>
     <style>
-        body {
+        body { 
             background-color: #f8f9fa;
         }
         .card {
